@@ -1,14 +1,24 @@
-
+html{
+	background-color:#4d5eb0;
+}
 header{
 
 }
 /*design for the icons*/
 footer {
-   position:relative;
+	display: block;
+   position:fixed;
    left:15px;
    bottom:0px;
    height:50px;
    width:100%;
+}
+.details{
+	position:fixed;
+	left:15px;
+	top:0px;
+	height:50px;
+	color:#f2ebe4;
 }
 
 /* Style all font awesome icons */
