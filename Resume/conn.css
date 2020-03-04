@@ -6,7 +6,7 @@ header{
 footer {
    position:fixed;
    left:15px;
-   bottom:0em;
+   bottom:0px;
    height:50px;
    width:100%;
 }
