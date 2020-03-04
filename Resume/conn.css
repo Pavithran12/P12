@@ -4,7 +4,7 @@ header{
 }
 /*design for the icons*/
 footer {
-   position:fixed;
+   position:relative;
    left:15px;
    bottom:0px;
    height:50px;
